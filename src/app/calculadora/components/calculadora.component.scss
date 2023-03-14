@@ -1,0 +1,27 @@
+.container-fluid{
+    background: #5a5a5a;
+}
+
+.btn {
+    width: 90%;
+    height: 50px;
+    margin: 4px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.input-text {
+    background: rgb(220, 219, 219);
+    border: 2px solid #797979;
+    color: black;
+    margin-top: 3px;
+    width:96%;
+	margin-left:6px;
+   font-style: bold;
+   font-size: 20px;
+}
+.pad-20 {
+	padding: 20px;
+}
+.col, .col-xs-9 {
+	padding: 0px;
+}
