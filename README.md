@@ -1,27 +1,32 @@
-# Calculadora
+<h1>Calculadora Angular</h1>
+<p>Calculadora Angular é uma aplicação web desenvolvida com o framework Angular, que permite realizar operações matemáticas básicas em um ambiente de usuário amigável e fácil de usar. Com recursos como adição, subtração, multiplicação e divisão, esta calculadora é perfeita para usuários que precisam realizar cálculos rápidos e precisos.</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+<h3>Tecnologias utilizadas</h3>
+<ul>
+  <li>Angular</li>
+  <li>TypeScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+</ul>
 
-## Development server
+<h3>Funcionalidades</h3>
+<ul>
+  <li>Adição</li>
+  <li>Subtração</li>
+  <li>Multiplicação</li>
+  <li>Divisão</li>
+  <li>Armazenamento de resultados</li>
+  <li>Limpar tela</li>
+<ul>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h3>Como executar o projeto</h3>
+<p>Para executar o projeto em sua máquina, siga os seguintes passos:</p>
 
-## Code scaffolding
+Instale as dependências utilizando o comando npm install.
+Compile o código utilizando o comando ng build.
+Execute o servidor de desenvolvimento utilizando o comando ng serve.
+Acesse a aplicação em seu navegador em http://localhost:4200.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+deploy: https://gabriellima3.github.io/calculadora-angular/
