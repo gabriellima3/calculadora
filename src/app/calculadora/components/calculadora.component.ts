@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CalculadoraService } from '../services';
 
 @Component({
   selector: 'app-calculadora',
@@ -6,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./calculadora.component.scss']
 })
 export class CalculadoraComponent {
-  constructor(){
+  constructor(private calculadorService: CalculadoraService){
 
   }
 }
