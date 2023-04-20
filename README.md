@@ -24,6 +24,7 @@
 <p>Para executar o projeto em sua máquina, siga os seguintes passos:</p>
 
 Instale as dependências utilizando o comando npm install.
+Execute o Json serce usando npm start
 Compile o código utilizando o comando ng build.
 Execute o servidor de desenvolvimento utilizando o comando ng serve.
 Acesse a aplicação em seu navegador em http://localhost:4200.
