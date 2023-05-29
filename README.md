@@ -24,10 +24,9 @@
 <p>Para executar o projeto em sua máquina, siga os seguintes passos:</p>
 
 Instale as dependências utilizando o comando npm install.
-Execute o Json serve usando npm start.
-Compile o código utilizando o comando ng build.
 Execute o servidor de desenvolvimento utilizando o comando ng serve.
 Acesse a aplicação em seu navegador em http://localhost:4200.
 
+![image](https://github.com/gabriellima3/calculadora-angular/assets/99371050/d6576bc1-59ce-4d2a-b182-60cffbbf25e7)
 
 deploy: https://gabriellima3.github.io/calculadora-angular/
